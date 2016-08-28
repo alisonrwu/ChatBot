@@ -1,0 +1,4 @@
+#Mon Jun 08 10:27:27 PDT 2015
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=Runnable JAR File Specification

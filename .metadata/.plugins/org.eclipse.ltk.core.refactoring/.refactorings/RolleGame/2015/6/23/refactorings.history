@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 7 elements to &apos;Chat/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;RolleGame&apos;&#x0D;&#x0A;- Destination element: &apos;Chat/src/(default package)&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     jingle.wav&#x0D;&#x0A;     pipette.png&#x0D;&#x0A;     flask blue.png&#x0D;&#x0A;     flask green.png&#x0D;&#x0A;     flask red.png&#x0D;&#x0A;     ding.wav&#x0D;&#x0A;     jingle2.wav" description="Copy files" destination="=Chat/src&lt;" element1="src/jingle.wav" element2="src/pipette.png" element3="src/flask blue.png" element4="src/flask green.png" element5="src/flask red.png" element6="src/ding.wav" element7="src/jingle2.wav" files="7" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1433446703859" units="0" version="1.0"/>
+</session>

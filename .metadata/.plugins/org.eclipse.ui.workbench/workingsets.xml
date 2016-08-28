@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1431620437608_1" label="Chat" name="Chat">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Chat" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1431365403966_0" label="Window Working Set" name="Aggregate for window 1431365403966"/>
+<mruList name="Chat"/>
+</workingSetManager>
